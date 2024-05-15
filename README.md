@@ -1,6 +1,9 @@
-# Hi there 👋
+# About Me 
 
 <!--
+Hi there 👋
+
+I am a # Statistics Major @ University of Waterloo 
 **Dannyso05/Dannyso05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
