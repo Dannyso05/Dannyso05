@@ -1,6 +1,5 @@
 # About Me 
 
-<!--
 Hi there 👋
 
 I am a # Statistics Major @ University of Waterloo 
@@ -16,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
