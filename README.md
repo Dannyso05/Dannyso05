@@ -9,6 +9,6 @@ Hi there 👋 My name is Hyeongseok(Daniel), I am currently in my second year of
 - 🌱 I’m currently learning more about AI/Machine Learning 🧠, Full-stack Development, and Statistical Analysis 📊.
 ---
 ### Contacts
-- 📫 Email: h26song@uwaterloo.ca or dansong1177@gmail.com
+- 📫 Email: h26song@uwaterloo.ca
 - 💬 Social: <a href="https://www.linkedin.com/in/daniel-song0718//">Linkedin</a>
 - 💻 Personal Website: Coming soon
