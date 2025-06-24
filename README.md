@@ -1,5 +1,5 @@
 # About Me 
-### Statistics and Computaional Mathematics Major @ <a href="https://uwaterloo.ca/future-students/mathematics">University of Waterloo </a> 
+### Statistics and Mathematical Optimization Major @ <a href="https://uwaterloo.ca/future-students/mathematics">University of Waterloo </a> 
 
 Hi there 👋 My name is Hyeongseok(Daniel), I am currently in my second year of Honors Mathematics at the University of Waterloo, pursuing a double major Statistics and Computaional Mathematics. I have strong interest in Data Science, and I'm currently working on some projects related to this using Python 🐍. Feel free to reach out to me for more detail!
 
