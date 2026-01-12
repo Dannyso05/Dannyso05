@@ -1,12 +1,12 @@
 # About Me 
-### Statistics and Mathematical Optimization Major @ <a href="https://uwaterloo.ca/future-students/mathematics">University of Waterloo </a> 
+### Combinatrocis and Optimization Major @ <a href="https://uwaterloo.ca/future-students/mathematics">University of Waterloo </a> 
 
-Hi there 👋 My name is Hyeongseok(Daniel), I am currently in my second year of Honors Mathematics at the University of Waterloo, pursuing a double major Statistics and Computaional Mathematics. I have strong interest in Data Science, and I'm currently working on some projects related to this using Python 🐍. Feel free to reach out to me for more detail!
+Hi there 👋 My name is Hyeongseok(Daniel), I am currently in my third year of Honors Mathematics at the University of Waterloo, pursuing a major in Combinatrocis and Optimizations. I have strong interest in Software development and Machine Learning, and I'm always seeking for opportunties to learn more. Feel free to reach out to me for anything!
 
 ### Interests
-- 🤔 I’m currently looking for a Co-op for winter, or summer 2026 (Jan - Apr, or May - Aug)!
-- 📅 I’m currently working on a full-stack schedule management application and building a neural network from scratch.
-- 🌱 I’m currently learning more about AI/Machine Learning 🧠, Full-stack Development, and Statistical Analysis 📊.
+- 🤔 I’m currently looking for a Co-op for summer, or fall 2026 (May - Aug or Sep - Dec)!
+- 📅 I’m currently working on an emmersive platform for realtors 👀.
+- 🌱 I’m currently learning more about low level LLM inference and world modelling.
 ---
 ### Contacts
 - 📫 Email: h26song@uwaterloo.ca
