@@ -1,7 +1,7 @@
 # About Me 
-### Combinatrocis and Optimization Major @ <a href="https://uwaterloo.ca/future-students/mathematics">University of Waterloo </a> 
+### Combinatorics and Optimization Major @ <a href="https://uwaterloo.ca/future-students/mathematics">University of Waterloo </a> 
 
-Hi there 👋 My name is Hyeongseok(Daniel), I am currently in my third year of Honors Mathematics at the University of Waterloo, pursuing a major in Combinatrocis and Optimizations. I have strong interest in Software development and Machine Learning, and I'm always seeking for opportunties to learn more. Feel free to reach out to me for anything!
+Hi there 👋 My name is Hyeongseok(Daniel), I am currently in my third year of Honors Mathematics at the University of Waterloo, pursuing a major in Combinatorics and Optimizations. I have strong interest in Software development and Machine Learning, and I'm always seeking for opportunties to learn more. Feel free to reach out to me for anything!
 
 ### Interests
 - 🤔 I’m currently looking for a Co-op for summer, or fall 2026 (May - Aug or Sep - Dec)!
