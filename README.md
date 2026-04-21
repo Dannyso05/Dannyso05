@@ -4,7 +4,7 @@
 Hi there 👋 My name is Hyeongseok(Daniel), I am currently in my third year of Honors Mathematics at the University of Waterloo, pursuing a major in Combinatorics and Optimizations. I have strong interest in Software development and Machine Learning, and I'm always seeking for opportunties to learn more. Feel free to reach out to me for anything!
 
 ### Interests
-- 🤔 I’m currently looking for a Co-op for summer, or fall 2026 (May - Aug or Sep - Dec)!
+- 🤔 I’m currently looking for a Co-op for 2027!
 - 📅 I’m currently working on an emmersive platform for realtors 👀.
 - 🌱 I’m currently learning more about low level LLM inference and world modelling.
 ---
